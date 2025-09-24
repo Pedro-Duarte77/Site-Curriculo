@@ -15,7 +15,8 @@
 }
 
 .minhacor{
-    color: red;
+    font-size: 1.1em;
+    color: #000000;
 }
 
 .card {
@@ -30,6 +31,18 @@
 .titulo{
     text-align: center;
     color: red;
+}
+
+.borda{
+    border: 2px solid black;
+}
+
+.borda2{
+    border: 2px solid red;
+}
+
+.borda3{
+    border: 1px solid black;
 }
 
 .footer{
